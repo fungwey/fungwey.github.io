@@ -10,16 +10,10 @@ tags:
   - Internet
 ---
 
-> “Yeah It's on. ”
+HTTP全名HyperText Transfer Protocol超文本传输协议。
 
-FungW 的 Blog 就这么开通了。
+#### 什么是超文本
 
-2020 年马上结束了，恍恍惚惚之间，觉得需要留下来什么，于是这篇博客就诞生了。
-
-## 博客搭建
-
-为了节约时间，不想在搭建过程花太多时间。忘了写博客的初衷。
-
-于是就 fork 了 [黄玄](http://huangxuan.me/) 的博客。后续再根据需求去慢慢修改了。
-
-—— fengwey 记于 2020.05
+超文本系统是一种提供了复杂格式的解释的软件系统，包括文本，图像，超链接一种文字间的跳转以提供某一个关键词的相关内容。
+https://juejin.im/post/6844904031588974600
+https://developer.mozilla.org/zh-CN/docs/Web/HTTP
