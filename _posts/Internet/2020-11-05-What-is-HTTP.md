@@ -44,4 +44,4 @@ HTTPS 使用的另一个协议叫做 TLS，TLS 或传输层安全性协议是最
 
 #### 更多内容访问以下链接
 
-(MDN web docs HTTP)[https://developer.mozilla.org/zh-CN/docs/Web/HTTP]
+[MDN web docs HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
