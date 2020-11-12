@@ -2,7 +2,7 @@
 layout: post
 title: "What is the HTTP?"
 subtitle: "什么是HTTP？"
-date: 2020-11-05 18:31:13
+date: 2020-11-12 15:26:04
 author: "FungWey"
 header-img: "img/in-post/internet/internet-head.jpg"
 catalog: true
