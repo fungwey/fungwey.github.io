@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: FungW
-zhihu_username: FungW
-github_username: FungW
-twitter_username: FungW
+weibo_username: WittWey
+zhihu_username:
+github_username: fungwey
+twitter_username:
 #facebook_username:  FungW
 #linkedin_username:  firstname-lastname-idxxxx
 
